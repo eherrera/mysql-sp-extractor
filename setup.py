@@ -13,10 +13,10 @@ setup(
     description='Extrae procedimientos almacenados de MemSQL/SingleStore/Mysql a archivos individuales',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/ernesthm/mysql-sp-extractor',
+    url='https://github.com/eherrera/mysql-sp-extractor',
     project_urls={
-        'Bug Tracker': 'https://github.com/ernesthm/mysql-sp-extractor/memsql-sp-extractor/issues',
-        'Documentation': 'https://github.com/ernesthm/mysql-sp-extractor/memsql-sp-extractor#readme',
+        'Bug Tracker': 'https://github.com/eherrera/mysql-sp-extractor/issues',
+        'Documentation': 'https://github.com/eherrera/mysql-sp-extractor/#readme',
     },
     packages=find_packages(),
     classifiers=[
