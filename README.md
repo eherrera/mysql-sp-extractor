@@ -1,4 +1,3 @@
-"""
 # MySQL Stored Procedure Extractor
 
 [![PyPI version](https://badge.fury.io/py/mysql-sp-extractor.svg)](https://badge.fury.io/py/mysql-sp-extractor)
@@ -195,4 +194,3 @@ MIT License - Ver archivo [LICENSE](LICENSE) para más detalles
 ---
 
 ⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub!
-"""
