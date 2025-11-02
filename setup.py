@@ -49,7 +49,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'memsql-sp-extractor=memsql_sp_extractor.cli:main',
+            'mysql-sp-extractor=memsql_sp_extractor.cli:main',
         ],
     },
     keywords='memsql singlestore mysql stored-procedures database backup',

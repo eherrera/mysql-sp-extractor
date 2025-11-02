@@ -51,16 +51,16 @@ def main():
         epilog="""
 Ejemplos:
   # Usar archivo .env por defecto
-  memsql-sp-extractor
+  mysql-sp-extractor
   
   # Especificar archivo .env personalizado
-  memsql-sp-extractor --env .env.production
+  mysql-sp-extractor --env .env.production
   
   # Proporcionar credenciales por línea de comandos
-  memsql-sp-extractor --host localhost --user admin --database mydb
+  mysql-sp-extractor --host localhost --user admin --database mydb
   
   # Excluir funciones
-  memsql-sp-extractor --no-functions
+  mysql-sp-extractor --no-functions
         """
     )
     
