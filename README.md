@@ -154,7 +154,7 @@ DELIMITER ;
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/ernesthm/mysql-sp-extractor.git
+git clone https://github.com/eherrera/mysql-sp-extractor.git
 cd mysql-sp-extractor
 
 # Instalar en modo desarrollo
@@ -183,9 +183,9 @@ MIT License - Ver archivo [LICENSE](LICENSE) para más detalles
 
 ## Soporte
 
-- 🐛 [Reportar bugs](https://github.com/ernesthm/mysql-sp-extractor/issues)
-- 💡 [Solicitar features](https://github.com/ernesthm/mysql-sp-extractor/issues)
-- 📖 [Documentación](https://github.com/ernesthm/mysql-sp-extractor#readme)
+- 🐛 [Reportar bugs](https://github.com/eherrera/mysql-sp-extractor/issues)
+- 💡 [Solicitar features](https://github.com/eherrera/mysql-sp-extractor/issues)
+- 📖 [Documentación](https://github.com/eherrera/mysql-sp-extractor#readme)
 
 ## Autor
 
