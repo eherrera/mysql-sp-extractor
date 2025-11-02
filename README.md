@@ -2,9 +2,8 @@
 
 [![PyPI version](https://badge.fury.io/py/mysql-sp-extractor.svg)](https://pypi.org/project/mysql-sp-extractor/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/mysql-sp-extractor)](https://pypi.org/project/mysql-sp-extractor/)
-[![Downloads](https://pepy.tech/badge/mysql-sp-extractor)](https://pepy.tech/project/mysql-sp-extractor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 
 Herramienta de línea de comandos para extraer procedimientos almacenados y funciones de bases de datos MemSQL/SingleStore (y MySQL compatible) a archivos SQL individuales.
 
