@@ -1,0 +1,6 @@
+"""
+include README.md
+include requirements.txt
+include .env.example
+recursive-include mysql_sp_extractor *.py
+"""

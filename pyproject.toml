@@ -1,0 +1,24 @@
+"""
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mysql-sp-extractor"
+version = "0.1.0"
+description = "Extract stored procedures from MySQL/SingleStore"
+authors = [
+    {name = "Ernesto Herrera Morales", email = "ernesthmdev@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "mysql-connector-python>=8.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+mysql-sp-extractor = "mysql_sp_extractor.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/ernesthm/mysql-sp-extractor"
