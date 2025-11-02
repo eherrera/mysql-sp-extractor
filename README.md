@@ -187,9 +187,6 @@ MIT License - Ver archivo [LICENSE](LICENSE) para más detalles
 - 💡 [Solicitar features](https://github.com/eherrera/mysql-sp-extractor/issues)
 - 📖 [Documentación](https://github.com/eherrera/mysql-sp-extractor#readme)
 
-## Autor
-
-**Tu Nombre** - [tu.email@example.com](mailto:tu.email@example.com)
 
 ---
 
